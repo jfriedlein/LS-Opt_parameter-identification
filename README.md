@@ -2,7 +2,7 @@
 Some basics, settings and files for the straightforward use of LS-Opt for parameter identifications
 
 ## Setup of parameters
-That's a bit tricky and best done in the .k-files via a text editor.
+That's a bit tricky and best done in the .k-files via a text editor (that is not the best way to do it, nor the only, it is just how I do it).
 
 For instance:
 ```
